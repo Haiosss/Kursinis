@@ -1,0 +1,2 @@
+model,nobs,loglikelihood,aic,bic,params,convergence_flag,alpha_plus_beta
+"GARCH(1,1), mean=Zero, dist=normal, scale_factor=10.0, deseasonalise=True",398878,-514249.3698165637,1028504.7396331273,1028537.4288657815,"{'omega': 0.013051556518940287, 'alpha[1]': 0.06334667407687776, 'beta[1]': 0.9267747668783896}",0,0.9901214409552673

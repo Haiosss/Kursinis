@@ -1,0 +1,2 @@
+start,end,timeframe,n_rows_raw,n_rows_clean,n_duplicates_dropped,n_invalid_dates_dropped,n_invalid_prices_dropped,n_missing_close,calendar,expected_bars,missing_bars,filled_bars,left_missing_bars
+2004-06-11 07:15:00,2025-12-01 04:15:00,15min,487977,537685,0,0,0,21012,weekday,537685,49708,28696,21012
